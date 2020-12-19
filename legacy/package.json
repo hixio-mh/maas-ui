@@ -69,7 +69,7 @@
   "dependencies": {
     "@maas-ui/maas-ui-shared": "0.1.1",
     "@sentry/browser": "5.15.5",
-    "@sentry/integrations": "5.15.5",
+    "@sentry/integrations": "5.27.6",
     "@uirouter/angularjs": "1.0.26",
     "angular": "1.7.9",
     "angular-cookies": "1.7.9",
