@@ -71,7 +71,7 @@
     "@sentry/browser": "5.15.5",
     "@sentry/integrations": "5.15.5",
     "@uirouter/angularjs": "1.0.26",
-    "angular": "1.7.9",
+    "angular": "1.8.0",
     "angular-cookies": "1.7.9",
     "angular-route": "1.7.9",
     "angular-sanitize": "1.7.9",
